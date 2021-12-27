@@ -10,7 +10,7 @@
 
 ### Tech Stack
 - ReactJs
-- Judge0 Api for online compiler
+- NodeJs
 - Surge for hosting.
 
 ### Images
