@@ -6,7 +6,7 @@
 - Code can see the time and memory alocation for the corresponding output for the given input.
 - User can also change the theme of code editor.
 
-#### Online Preview: https://ide.surge.sh/
+#### Online Preview: https://ide.dhwajgupta.in/
 
 ### Tech Stack
 - ReactJs
